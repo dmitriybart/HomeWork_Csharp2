@@ -1,0 +1,15 @@
+C:\Users\Dmitriy\Desktop\Разработчик ГБ\6Знакомство с языками программирования\Семинары\Home_Work(Seminar2)\task4\obj\Debug\net6.0\task4.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Разработчик ГБ\6Знакомство с языками программирования\Семинары\Home_Work(Seminar2)\task4\obj\Debug\net6.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\Desktop\Разработчик ГБ\6Знакомство с языками программирования\Семинары\Home_Work(Seminar2)\task4\obj\Debug\net6.0\task4.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Desktop\Разработчик ГБ\6Знакомство с языками программирования\Семинары\Home_Work(Seminar2)\task4\obj\Debug\net6.0\task4.AssemblyInfo.cs
+C:\Users\Dmitriy\Desktop\Разработчик ГБ\6Знакомство с языками программирования\Семинары\Home_Work(Seminar2)\task4\obj\Debug\net6.0\task4.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Разработчик ГБ\6Знакомство с языками программирования\Семинары\Home_Work(Seminar2)\task4\bin\Debug\net6.0\task4.exe
+C:\Users\Dmitriy\Desktop\Разработчик ГБ\6Знакомство с языками программирования\Семинары\Home_Work(Seminar2)\task4\bin\Debug\net6.0\task4.deps.json
+C:\Users\Dmitriy\Desktop\Разработчик ГБ\6Знакомство с языками программирования\Семинары\Home_Work(Seminar2)\task4\bin\Debug\net6.0\task4.runtimeconfig.json
+C:\Users\Dmitriy\Desktop\Разработчик ГБ\6Знакомство с языками программирования\Семинары\Home_Work(Seminar2)\task4\bin\Debug\net6.0\task4.dll
+C:\Users\Dmitriy\Desktop\Разработчик ГБ\6Знакомство с языками программирования\Семинары\Home_Work(Seminar2)\task4\bin\Debug\net6.0\task4.pdb
+C:\Users\Dmitriy\Desktop\Разработчик ГБ\6Знакомство с языками программирования\Семинары\Home_Work(Seminar2)\task4\obj\Debug\net6.0\task4.dll
+C:\Users\Dmitriy\Desktop\Разработчик ГБ\6Знакомство с языками программирования\Семинары\Home_Work(Seminar2)\task4\obj\Debug\net6.0\refint\task4.dll
+C:\Users\Dmitriy\Desktop\Разработчик ГБ\6Знакомство с языками программирования\Семинары\Home_Work(Seminar2)\task4\obj\Debug\net6.0\task4.pdb
+C:\Users\Dmitriy\Desktop\Разработчик ГБ\6Знакомство с языками программирования\Семинары\Home_Work(Seminar2)\task4\obj\Debug\net6.0\task4.genruntimeconfig.cache
+C:\Users\Dmitriy\Desktop\Разработчик ГБ\6Знакомство с языками программирования\Семинары\Home_Work(Seminar2)\task4\obj\Debug\net6.0\ref\task4.dll
