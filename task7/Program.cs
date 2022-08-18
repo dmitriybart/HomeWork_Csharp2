@@ -1,5 +1,5 @@
 ﻿// Определить количество цифр в числе
-Console.Write("Введите положительное число: ");
+Console.Write("Введите число: ");
 int UserNumber = int.Parse(Console.ReadLine());
 int count = 0;
 int UserSecondNumber = UserNumber;
